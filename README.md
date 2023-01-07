@@ -5,7 +5,7 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![Can Koyuncu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankoyuncu)](https://github.com/cankoyuncu/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankoyuncu&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankoyuncu&no-bg=true&layout=compact&langs_count=7&theme=dark"/>
 
 ![](https://komarev.com/ghpvc/?username=cankoyuncu&style=for-the-badge)
 
