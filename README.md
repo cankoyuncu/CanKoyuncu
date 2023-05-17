@@ -2,13 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-[![Can Koyuncu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankoyuncu)](https://github.com/cankoyuncu/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankoyuncu&layout=compact&langs_count=7&theme=light"/>
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on web design and web security<br>👯 I’m looking to collaborate on new website projects<br>
 
@@ -29,7 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cankoyuncu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=cankoyuncu&icon=2&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=cankoyuncu&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
