@@ -23,8 +23,9 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
 ---
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div> 
+ 
 ![](https://komarev.com/ghpvc/?username=cankoyuncu&style=for-the-badge)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div> 
