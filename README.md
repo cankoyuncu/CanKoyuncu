@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+
 
 # 💫 About Me:
 🔭 I’m currently working on web design and web security<br>👯 I’m looking to collaborate on new website projects<br>
@@ -23,6 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cankoyuncu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 ---
 ![](https://komarev.com/ghpvc/?username=cankoyuncu&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
