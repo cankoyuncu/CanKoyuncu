@@ -2,7 +2,6 @@
  
 # 💫 About Me:
 🔭 I’m currently working on web design and web security.<br>👯 I’m looking to collaborate on new website projects.<br>
- <a href="https://github.com/cankoyuncu/InternetBasedProgramming" target="_blank">My Internet Based Programming Repositories</a> 
 
 
 ## 🌐 Socials:
@@ -16,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cankoyuncu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cankoyuncu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cankoyuncu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
