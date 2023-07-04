@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cankoyuncu&theme=dark&hide_border=false)<br/><br/>
-<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> 
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> <br/>
 ![](https://github-readme-stats.vercel.app/api?username=cankoyuncu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
